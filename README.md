@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Madhurjya Bharadwaj
+👋 Hi, I'm Madhurjya Bharadwaj<br>
 🔭 I’m currently working on: Product management projects: PRDs, product teardowns, and MVPs I spec, build, and ship end-to-end<br>👯 I’m looking to collaborate on: Consumer product ideas and 0-to-1 MVPs, with engineers, designers, and other PMs<br>🤝 I’m looking for help with: Getting my MVPs in front of real users, and honest feedback on my PRDs and product decisions<br>🌱 I’m currently learning: Product discovery and prioritisation, product analytics, and how much further AI leverage lets me ship on my own<br>💬 Ask me about: Writing PRDs, cutting an MVP down to one outcome, consumer product teardowns, and taking a product from spec to shipped<br>⚡ Fun fact: Every repo here started as a document, not a commit 
 
 
